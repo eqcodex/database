@@ -1,0 +1,9 @@
+id: 409829AE-3D83-49D7-BAC1-312C5D4237FA
+name: a bixie
+min_level: 1
+max_level: 1
+dropgroups:
+  - chance: 10
+    items:
+      - chance: 10
+        name: Bixie Parts
